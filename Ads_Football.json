@@ -47,8 +47,8 @@
       "ShowLocker":true,
       "FreePlayerLink":"https://free.com",
       "ShowLockerAfter":20,
-      "FreePlayerIntent":"video.hd.x.player.xhdvideoplayer.videoplayerhd.hdplayer.videoplayer.fullhdvideoplayer.xplayer.xvideo.xxplayer",
-      "PremiumPlayerlink":"video.hd.x.player.xhdvideoplayer.videoplayerhd.hdplayer.videoplayer.fullhdvideoplayer.xplayer.xvideo.xxplayer",
+      "FreePlayerIntent":"com.playersmtpro.smtvplayer",
+      "PremiumPlayerlink":"com.playersmtpro.smtvplayer",
       "PremiumPlayerIntent":"com.soccer.newplayerooo",
       "ShowFootballScoresWarning":false
    }
